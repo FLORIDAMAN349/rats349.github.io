@@ -4,6 +4,13 @@
 body {
   background-color: #474747
 }
+body {
+  color: white;
+}
+h1 {
+  color: white;
+}
+
 </style> 
 </head>
 <body>
