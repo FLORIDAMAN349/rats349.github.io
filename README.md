@@ -9,7 +9,7 @@
 <p>YEEEEEEEEEEET</p>
 
 <video width="320" height="240" controls>
-  <source src="RPReplay_Final1715349548.mov" type="video/mp4">
+  <source src="RPReplay_Final1715349548.mov" type="video/mov">
 </video>
 
 </body>
