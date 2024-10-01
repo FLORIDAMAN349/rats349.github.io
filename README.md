@@ -1,5 +1,13 @@
 <html>
 <head>
+<style>
+  
+body {
+  background-color: #474747
+｝
+</style> 
+</head>
+<body>
 
 <h1>CRAZY I WAS CRAZY ONCE THEY LOCKED ME IN A ROOM, A RUBBER ROOM WITH RATS,RATS MAKE ME CRAZY</h1>
 
