@@ -1,15 +1,13 @@
 <html>
 <head>
-<title>Test</title>
-</head>
-<body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>CRAZY I WAS CRAZY ONCE THEY LOCKED ME IN A ROOM, A RUBBER ROOM WITH RATS,RATS MAKE ME CRAZY</h1>
 
-<video width="320" height="240" controls>
-  <source src="https://raw.githubusercontent.com/FLORIDAMAN349/floridaman349.github.io/refs/heads/main/RPReplay_Final1715349548.mov">
-</video>
+<p>............................................................................................................................................................................................................................................................................................................................................................................</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sjuHzjs18aw?si=gg3Yx2rZBVCD1YHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p>H̷̠͌̉Ē̸̹̯̅͝Ľ̴̳̄P̵̨̱͘ ̷̼̺̮͝M̷̹͆É̴̥̪̏̋<p>
 
 </body>
 </html>
